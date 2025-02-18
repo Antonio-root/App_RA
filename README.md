@@ -29,3 +29,63 @@ app:
         assets: Contiene archivos estáticos como imágenes, CSS, y JavaScript.
     config:
         database.php: Configuración de la base de datos.
+
+
+
+        
+##Reparticion de tareas 
+
+ANTONIO.
+    Frontend (Angular)
+    Configuración Inicial:
+        Configurar el proyecto Angular.
+        Integrar Bootstrap para el diseño responsivo.
+
+    Módulo de Autenticación y Seguridad:
+        Implementar las páginas de registro y login.
+        Integrar la autenticación con redes sociales (Google, Facebook).
+        Crear la página de recuperación y restablecimiento de contraseña.
+
+    Módulo de Redes Sociales:
+        Desarrollar los perfiles de usuario con foto y publicaciones.
+        Implementar la creación, edición y eliminación de publicaciones.
+        Añadir funcionalidades de comentarios y likes en publicaciones.
+    
+    
+
+    Backend (PHP)
+    Módulo de Autenticación y Seguridad:
+        Implementar el registro y login de usuarios.
+        Configurar la autenticación con redes sociales (Google, Facebook).
+        Desarrollar la funcionalidad de recuperación y restablecimiento de contraseña.
+        Gestionar roles y permisos de usuarios.
+
+    Módulo de Redes Sociales:
+        Desarrollar la API para los perfiles de usuario y publicaciones.
+        Implementar la API para comentarios y likes en publicaciones.
+
+
+
+YERALDO:
+    Frontend (Angular)
+
+    Módulo de E-commerce:
+        Desarrollar el catálogo de productos con filtros y búsqueda avanzada.
+        Crear las páginas de detalles del producto.
+        Implementar el carrito de compras.
+
+    Módulo de E-commerce:
+        Implementar el sistema de calificación y reseñas de productos.
+
+
+    Backend (PHP)
+
+    Configuración Inicial:
+        Configurar el servidor PHP y la base de datos MongoDB.
+        Crear la estructura de la API REST.
+
+    Módulo de E-commerce:
+        Crear la API para el catálogo de productos.
+        Desarrollar la API para las páginas de detalles del producto.
+        Implementar la API para el carrito de compras y métodos de pago (PayPal).
+        Gestionar pedidos y seguimiento.
