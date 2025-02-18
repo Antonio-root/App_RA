@@ -15,6 +15,8 @@ src/app:
         example.service.ts: Servicio para manejar las solicitudes HTTP.
     app.module.ts: Módulo principal de la aplicación.
     app-routing.module.ts: Configuración de las rutas de la aplicación.
+
+    
 Backend (PHP)
 app:
 
